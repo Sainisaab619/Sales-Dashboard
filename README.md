@@ -17,3 +17,5 @@ Business Impact :
 Leadership can quickly analysis what we need to improve or which  product is  makeing more sales.
 Automated manual Excel-based reporting into interactive Power BI dashboards, reducing reporting time by 60% and improving decision turnaround.
 Enabled real-time visibility into sales performance across regions, categories, and SKUs, helping leadership identify high-growth segments and drive a 5–10% revenue uplift through targeted promotions.
+
+Screenshot : https://github.com/Sainisaab619/Sales-Dashboard/blob/main/Screenshot%202026-02-14%20080237.png
